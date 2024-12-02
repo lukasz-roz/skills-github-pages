@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: pages-themes/hacker@v0.2.0
 autor: lukaszr
 title: some title
 description: some description
